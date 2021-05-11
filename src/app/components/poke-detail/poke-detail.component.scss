@@ -1,0 +1,29 @@
+@import "../../../assets/styles/variables.scss";
+#cadre-color{
+  background-color:lightgray;
+}
+.card {
+  width: 300px;
+  margin: auto;
+  margin-top: 40px;
+  background-color:  darkslateblue;
+}
+
+.header-image {
+  background-size: cover;
+}
+
+.mat-card-header{
+  background-color: darkgrey;
+  padding-top: 10px;
+  border-radius: 10px;
+}
+
+.mat-card-title{
+  text-transform: uppercase;
+  color: white;
+}
+
+.mat-card-subtitle{
+  color: white;
+}
